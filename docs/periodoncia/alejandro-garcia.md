@@ -8,7 +8,7 @@ sidebar_position: 1
 
 :::tip
 
-Llama al [55 9660 6606](+tel:+525596606606) para agendar una cita.
+Llama al [55 9660 6606](tel:+525596606606) para agendar una cita.
 
 :::
 
