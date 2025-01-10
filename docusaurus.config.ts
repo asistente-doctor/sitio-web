@@ -18,7 +18,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'la-rebelion', // Usually your GitHub org/user name.
+  organizationName: 'asistente-doctor', // Usually your GitHub org/user name.
   projectName: 'asistente-doctor', // Usually your repo name.
 
   onBrokenLinks: 'throw',
